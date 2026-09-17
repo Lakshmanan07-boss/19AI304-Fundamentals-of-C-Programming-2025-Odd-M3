@@ -1,24 +1,13 @@
-# 19AI304 - Fundamentals of C Programming - 2025 Odd - M3
-
-## IAPR-3 - Module 3
-
-### 5. Implementation of One-Dimensional Array and Multidimensional Array
-
-### 6. Implementation of String Manipulation
-
----
+Module 3
 
 # Ex.No:11
 
 ## Decimal to Binary Conversion
 
-**Date : 02/05/2026**
-
 ## Aim
 
 To formulate a C program to convert a decimal number into its binary equivalent and display it.
 
----
 
 ## Algorithm
 
@@ -115,7 +104,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 ## Saddle Point in a Matrix
 
-**Date : 02/05/2026**
 
 ## Aim
 
@@ -306,7 +294,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 
 ## Reverse a String
 
-**Date : 02/05/2026**
 
 ## Aim
 
@@ -411,8 +398,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Ex.No:14
 
 ## Character Frequency in a String
-
-**Date : 02/05/2026**
 
 ## Aim
 
@@ -531,8 +516,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 # Ex.No:15
 
 ## Remove Duplicate Words from a String
-
-**Date : 02/05/2026**
 
 ## Aim
 
